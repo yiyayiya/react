@@ -1,4 +1,4 @@
----
+---dddd
 id: introducing-jsx
 title: JSX 简介
 permalink: docs/introducing-jsx.html
@@ -17,7 +17,7 @@ const element = <h1>Hello, world!</h1>;
 它被称为 JSX， 一种 JavaScript 的语法扩展。 我们推荐在 React 中使用 JSX 来描述用户界面。JSX 乍看起来可能比较像是模版语言，但事实上它完全是在 JavaScript 内部实现的。
 
 JSX 用来声明 React 当中的元素。在[下一个章节](/docs/rendering-elements.html)里面我们会详细介绍元素是如何被渲染出来的，接下来呢，我们先来看看 JSX 的基本使用方法。
-
+dddd
 ### 在 JSX 中使用表达式
 
  你可以任意地在 JSX 当中使用 [JavaScript 表达式](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Expressions)，在 JSX 当中的表达式要包含在大括号里。
